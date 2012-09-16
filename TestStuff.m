@@ -14,7 +14,7 @@
 
 + (NSString *)getSomeTestString
 {
-    return @"Some test string from submodule Master";
+    return @"Some test string from submodule Develop";
 }
 
 @end
