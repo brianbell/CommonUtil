@@ -10,4 +10,11 @@
 
 @implementation TestStuff
 
+
+
++ (NSString *)getSomeTestString
+{
+    return @"Some test string from submodule Master";
+}
+
 @end

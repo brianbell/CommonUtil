@@ -10,4 +10,8 @@
 
 @interface TestStuff : NSObject
 
+
++ (NSString *)getSomeTestString;
+
+
 @end
